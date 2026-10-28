@@ -1,0 +1,51 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1115 >>
+stream
+0.045 0.08 0.13 rg 0 722 595 120 re f
+BT /F1 27 Tf 40 785 Td 1 1 1 rg (LendHub) Tj ET
+BT /F1 14 Tf 40 753 Td 0.65 0.8 1 rg (Loan slip / L0041) Tj ET
+0.1 0.15 0.2 rg
+BT /F1 11 Tf 40 675 Td (Student: STU001 - Ahmed Benali) Tj ET
+BT /F1 11 Tf 40 650 Td (Equipment: E001 - Dell XPS 13) Tj ET
+BT /F1 11 Tf 40 625 Td (Collected: 2026-10-25) Tj ET
+BT /F1 11 Tf 40 600 Td (Due date: 2026-11-01) Tj ET
+BT /F1 11 Tf 40 575 Td (Status: Active) Tj ET
+BT /F1 11 Tf 40 550 Td (Return date: Not yet returned) Tj ET
+BT /F1 11 Tf 40 525 Td () Tj ET
+BT /F1 11 Tf 40 500 Td (Return equipment to the campus equipment desk.) Tj ET
+BT /F1 11 Tf 40 475 Td (Late returns: -5 points per day \(maximum -60\).) Tj ET
+BT /F1 11 Tf 40 450 Td (Damage: -25 points. Loss: -60 points.) Tj ET
+BT /F1 11 Tf 40 425 Td (Damage/loss penalties are added to any late penalty.) Tj ET
+BT /F1 11 Tf 40 400 Td () Tj ET
+BT /F1 11 Tf 40 375 Td (Student signature: __________________________) Tj ET
+BT /F1 11 Tf 40 350 Td (Technician signature: ______________________) Tj ET
+BT /F1 10 Tf 40 42 Td (BORROW / USE / RESPECT - Keep this slip for your records.) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000344 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1511
+%%EOF

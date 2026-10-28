@@ -1,0 +1,2 @@
+# No third-party dependencies. Python 3.10+ with Tkinter is sufficient.
+# On Ubuntu/Debian install python3-tk.
